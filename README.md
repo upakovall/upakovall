@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCCuLeWvUsm8pHW0MQjxVKJEjMKH5l9uvU23L6-P89&s)](https://github.com/upakovall)
+
 <h1 align="center">Hi 👋, I'm Alexander Kryshtal</h1>
 <h3 align="center">Cybersecurity enthusiast with one year of experience in penetration testing and security analysis. Strong team player with a knack for Python, enabling a deeper understanding of code. Passionate about continuous learning and growth in the cybersecurity field. Committed to staying updated with industry trends and contributing effectively to cybersecurity initiatives.</h3>
 
